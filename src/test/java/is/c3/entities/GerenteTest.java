@@ -63,7 +63,7 @@ public class GerenteTest {
 		// Almacenar varias películas
 		cine.saveAll(peliculas);		
 				
-		assertEquals(cine.getPeliculas().size(), 3, "Almacenados incorrectamente");
+		assertEquals(3, cine.getPeliculas().size(), "Almacenados incorrectamente");
 	}
 
 	
