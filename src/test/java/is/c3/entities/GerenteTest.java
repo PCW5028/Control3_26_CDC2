@@ -2,6 +2,9 @@ package is.c3.entities;
 
 
 import is.c3.model.Pelicula;
+import is.c3.model.entities.Cine;
+import is.c3.model.entities.PeliculaCine;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

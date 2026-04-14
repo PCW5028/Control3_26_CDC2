@@ -1,7 +1,7 @@
 package is.c3.controller;
 
-import is.c3.entities.Cine;
-import is.c3.entities.PeliculaCine;
+import is.c3.model.entities.Cine;
+import is.c3.model.entities.PeliculaCine;
 
 
 public class Gerente {
