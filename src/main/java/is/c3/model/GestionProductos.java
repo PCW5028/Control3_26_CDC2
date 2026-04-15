@@ -2,6 +2,8 @@ package is.c3.model;
 
 import java.util.List;
 
+import is.c3.model.entities.PeliculaCine;
+
 /**
  * Interfaz genérica para la gestión del stock productos del tipo T
  * 
@@ -52,5 +54,7 @@ public interface GestionProductos<T> {
 	 * Operación de borrado Elimina todos los objetos del listado
 	 */
 	void deleteAll();
+
+
 
 }
